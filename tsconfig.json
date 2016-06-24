@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "module": "amd",
+    "sourceMap": true,
+    "removeComments": false,
+    "jsx": "react",
+    "moduleResolution": "classic",
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    ".coverage",
+    ".grunt",
+    ".idea",
+    ".junit",
+    ".tscache",
+    ".vscode",
+    "build",
+    "examples",
+    "images",
+    "node_modules",
+    "styles"
+  ]
+}
